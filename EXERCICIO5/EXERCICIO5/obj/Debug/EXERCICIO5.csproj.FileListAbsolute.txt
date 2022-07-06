@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\EXERCICIO5\EXERCICIO5\obj\Debug\EXERCICIO5.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\EXERCICIO5\EXERCICIO5\bin\Debug\EXERCICIO5.exe.config
+C:\Users\Administrador\Desktop\EXERCICIO5\EXERCICIO5\bin\Debug\EXERCICIO5.exe
+C:\Users\Administrador\Desktop\EXERCICIO5\EXERCICIO5\bin\Debug\EXERCICIO5.pdb
+C:\Users\Administrador\Desktop\EXERCICIO5\EXERCICIO5\obj\Debug\EXERCICIO5.exe
+C:\Users\Administrador\Desktop\EXERCICIO5\EXERCICIO5\obj\Debug\EXERCICIO5.pdb
